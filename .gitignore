@@ -1,0 +1,6 @@
+serviceprincipal.txt
+terraform.tfstate.backup
+variables.tf.old
+terraform.tfvars.old
+.terraform/
+.terraform.lock.hcl
